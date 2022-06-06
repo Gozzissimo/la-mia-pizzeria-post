@@ -18,5 +18,5 @@
         {
             listaPizze.Add(pizza);
         }
-    }static
+    }
 }
